@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "jandaromantic";
+    font-display: swap;
+    font-weight: 400;
+    src: url('/assets/typho/normal/jandaromantic.ttf') format('truetype');
+}
+
+.font-type-jandaromantic-regular {
+  font-family: "jandaromantic", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
