@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "classy_vogue";
+    font-display: swap;
+    font-weight: 400;
+    src: url('/assets/typho/classy_vogue/normal/Regular.ttf') format('truetype');
+}
+
+.font-type-classy_vogue-regular {
+  font-family: "classy_vogue", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
